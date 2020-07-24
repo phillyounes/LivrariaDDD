@@ -1,6 +1,8 @@
-﻿namespace LivrariaDDD.Repository.Interfaces
+﻿using LivrariaDDD.Domain;
+
+namespace LivrariaDDD.Repository.Interfaces
 {
-    public interface IAutorRepository
+    public interface IAutorRepository:IBaseRepository<Autor>
     {
     }
 }
