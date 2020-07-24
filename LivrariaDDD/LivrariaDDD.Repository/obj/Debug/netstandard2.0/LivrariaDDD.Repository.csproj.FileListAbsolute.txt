@@ -7,3 +7,8 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\obj\D
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\obj\Debug\netstandard2.0\LivrariaDDD.Repository.csproj.CoreCompileInputs.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\obj\Debug\netstandard2.0\LivrariaDDD.Repository.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\obj\Debug\netstandard2.0\LivrariaDDD.Repository.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\bin\Debug\netstandard2.0\LivrariaDDD.Domain.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\bin\Debug\netstandard2.0\LivrariaDDD.Domain.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Repository\obj\Debug\netstandard2.0\LivrariaDDD.Repository.csproj.CopyComplete

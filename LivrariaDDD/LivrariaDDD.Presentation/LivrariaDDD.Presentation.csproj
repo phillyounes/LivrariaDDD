@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LivrariaDDD.Repository\LivrariaDDD.Repository.csproj" />
+    <ProjectReference Include="..\LivrariaDDD.Service\LivrariaDDD.Service.csproj" />
+  </ItemGroup>
+
 </Project>

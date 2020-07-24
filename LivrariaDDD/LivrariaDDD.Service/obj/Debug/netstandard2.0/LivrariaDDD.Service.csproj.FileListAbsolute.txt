@@ -1,0 +1,16 @@
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Service.deps.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Service.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Service.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Domain.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Repository.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Domain.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Repository.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.AssemblyInfo.cs
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.csproj.CopyComplete
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Service\obj\Debug\netstandard2.0\LivrariaDDD.Service.pdb

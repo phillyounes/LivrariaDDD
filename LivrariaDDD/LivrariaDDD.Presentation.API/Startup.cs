@@ -35,7 +35,6 @@ namespace LivrariaDDD.Presentation.API
 
             services.AddScoped<IAutorRepository, AutorRepository>();
             services.AddScoped<ILivroRepository, LivroRepository>();
-
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

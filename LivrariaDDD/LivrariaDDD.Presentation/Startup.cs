@@ -1,10 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using LivrariaDDD.Repository;
+using LivrariaDDD.Repository.Interfaces;
+using LivrariaDDD.Service;
+using LivrariaDDD.Service.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -24,6 +23,11 @@ namespace LivrariaDDD.Presentation
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IAutorService, AutorService>();
+            services.AddScoped<ILivroService, LivroService>();
+
+            services.AddScoped<IAutorRepository, AutorRepository>();
+            services.AddScoped<ILivroRepository, LivroRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
