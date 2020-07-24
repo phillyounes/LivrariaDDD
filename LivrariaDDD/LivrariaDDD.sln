@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaDDD.Infra.Data", "L
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaDDD.Repository", "LivrariaDDD.Repository\LivrariaDDD.Repository.csproj", "{17907798-749D-441E-B28E-D1AF0BFB2FD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.Service", "LivrariaDDD.Service\LivrariaDDD.Service.csproj", "{5E34BCEF-F27A-4BF8-9640-5DCD77F0412D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaDDD.Service", "LivrariaDDD.Service\LivrariaDDD.Service.csproj", "{5E34BCEF-F27A-4BF8-9640-5DCD77F0412D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.Presentation", "LivrariaDDD.Presentation\LivrariaDDD.Presentation.csproj", "{D0A53005-C6C6-4D7B-8351-8E7402B6E67D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaDDD.Presentation", "LivrariaDDD.Presentation\LivrariaDDD.Presentation.csproj", "{D0A53005-C6C6-4D7B-8351-8E7402B6E67D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.Presentation.API", "LivrariaDDD.Presentation.API\LivrariaDDD.Presentation.API.csproj", "{C90111A8-F5AA-4EC3-AF9E-D937192629E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LivrariaDDD.Presentation.API", "LivrariaDDD.Presentation.API\LivrariaDDD.Presentation.API.csproj", "{C90111A8-F5AA-4EC3-AF9E-D937192629E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.Application", "LivrariaDDD.Application\LivrariaDDD.Application.csproj", "{B08B967D-63A2-435C-B8AF-8EF2A34329D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +61,10 @@ Global
 		{C90111A8-F5AA-4EC3-AF9E-D937192629E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90111A8-F5AA-4EC3-AF9E-D937192629E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90111A8-F5AA-4EC3-AF9E-D937192629E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08B967D-63A2-435C-B8AF-8EF2A34329D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08B967D-63A2-435C-B8AF-8EF2A34329D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08B967D-63A2-435C-B8AF-8EF2A34329D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08B967D-63A2-435C-B8AF-8EF2A34329D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -71,6 +77,7 @@ Global
 		{5E34BCEF-F27A-4BF8-9640-5DCD77F0412D} = {5EA119E7-4137-4A5C-A0B4-76566A0E877D}
 		{D0A53005-C6C6-4D7B-8351-8E7402B6E67D} = {2C6E0FD4-0F52-4CD0-B760-489943A60DED}
 		{C90111A8-F5AA-4EC3-AF9E-D937192629E4} = {2C6E0FD4-0F52-4CD0-B760-489943A60DED}
+		{B08B967D-63A2-435C-B8AF-8EF2A34329D9} = {204530D2-91CD-4BC5-AE95-E89FA837829A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66A7FE70-9516-441F-8D26-AE67AB5D1BB0}

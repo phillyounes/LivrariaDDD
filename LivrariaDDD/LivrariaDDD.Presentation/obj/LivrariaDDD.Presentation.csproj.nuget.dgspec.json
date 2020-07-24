@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj": {}
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj": {
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj",
+        "projectUniqueName": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj",
         "projectName": "LivrariaDDD.Presentation",
-        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj",
-        "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\obj\\",
+        "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\LivrariaDDD.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexandre Gaspar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

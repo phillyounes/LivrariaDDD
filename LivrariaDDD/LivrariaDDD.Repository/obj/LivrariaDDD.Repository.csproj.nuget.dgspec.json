@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {}
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj": {
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj",
+        "projectUniqueName": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj",
         "projectName": "LivrariaDDD.Infra.Data",
-        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj",
-        "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\obj\\",
+        "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexandre Gaspar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,8 +32,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
+              "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
+                "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
               }
             }
           }
@@ -73,24 +74,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
+        "projectUniqueName": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
         "projectName": "LivrariaDDD.Domain",
-        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\obj\\",
+        "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexandre Gaspar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -132,24 +134,25 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {
+    "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj",
+        "projectUniqueName": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj",
         "projectName": "LivrariaDDD.Repository",
-        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj",
-        "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\obj\\",
+        "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj",
+        "packagesPath": "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexandre Gaspar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -163,11 +166,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj"
+              "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj": {
+                "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Data\\LivrariaDDD.Infra.Data.csproj"
               },
-              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
-                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
+              "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
+                "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
               }
             }
           }
@@ -198,7 +201,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
