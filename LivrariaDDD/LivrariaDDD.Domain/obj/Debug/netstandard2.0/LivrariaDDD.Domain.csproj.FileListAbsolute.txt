@@ -1,0 +1,9 @@
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\bin\Debug\netstandard2.0\LivrariaDDD.Domain.deps.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\bin\Debug\netstandard2.0\LivrariaDDD.Domain.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\bin\Debug\netstandard2.0\LivrariaDDD.Domain.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.AssemblyInfo.cs
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Domain\obj\Debug\netstandard2.0\LivrariaDDD.Domain.pdb

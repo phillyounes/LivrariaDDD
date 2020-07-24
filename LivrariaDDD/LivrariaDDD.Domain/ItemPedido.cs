@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace LivrariaDDD.Domain
+﻿namespace LivrariaDDD.Domain
 {
     public class ItemPedido
     {
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public Pedido Pedido { get; set; }
         public Livro Livro { get; set; }
         public int Quantidade { get; set; }
