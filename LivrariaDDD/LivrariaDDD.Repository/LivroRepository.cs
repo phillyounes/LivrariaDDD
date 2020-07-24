@@ -3,7 +3,7 @@ using LivrariaDDD.Repository.Interfaces;
 
 namespace LivrariaDDD.Repository
 {
-    public class AutorRepository : BaseRepository<Autor>, IAutorRepository
+    public class LivroRepository : BaseRepository<Livro>, ILivroRepository
     {
     }
 }
