@@ -10,7 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LivrariaDDD.Domain\LivrariaDDD.Domain.csproj" />
-    <ProjectReference Include="..\LivrariaDDD.Service\LivrariaDDD.Service.csproj" />
+    <ProjectReference Include="..\LivrariaDDD.Services\LivrariaDDD.Services.csproj" />
   </ItemGroup>
 
 </Project>

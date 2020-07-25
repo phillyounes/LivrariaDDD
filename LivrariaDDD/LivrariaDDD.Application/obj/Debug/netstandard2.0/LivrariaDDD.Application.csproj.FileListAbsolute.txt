@@ -22,9 +22,9 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Domain.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Repository.dll
-C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Service.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Services.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Domain.pdb
-C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Service.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Services.pdb
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Infra.Data.pdb
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\bin\Debug\netstandard2.0\LivrariaDDD.Repository.pdb
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Application\obj\Debug\netstandard2.0\LivrariaDDD.Application.csprojAssemblyReference.cache

@@ -1734,7 +1734,7 @@
           "bin/placeholder/LivrariaDDD.Repository.dll": {}
         }
       },
-      "LivrariaDDD.Service/1.0.0": {
+      "LivrariaDDD.Services/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1742,10 +1742,10 @@
           "LivrariaDDD.Repository": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/LivrariaDDD.Service.dll": {}
+          "bin/placeholder/LivrariaDDD.Services.dll": {}
         },
         "runtime": {
-          "bin/placeholder/LivrariaDDD.Service.dll": {}
+          "bin/placeholder/LivrariaDDD.Services.dll": {}
         }
       }
     }
@@ -6303,17 +6303,17 @@
       "path": "../LivrariaDDD.Repository/LivrariaDDD.Repository.csproj",
       "msbuildProject": "../LivrariaDDD.Repository/LivrariaDDD.Repository.csproj"
     },
-    "LivrariaDDD.Service/1.0.0": {
+    "LivrariaDDD.Services/1.0.0": {
       "type": "project",
-      "path": "../LivrariaDDD.Service/LivrariaDDD.Service.csproj",
-      "msbuildProject": "../LivrariaDDD.Service/LivrariaDDD.Service.csproj"
+      "path": "../LivrariaDDD.Services/LivrariaDDD.Services.csproj",
+      "msbuildProject": "../LivrariaDDD.Services/LivrariaDDD.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "AutoMapper >= 10.0.0",
       "LivrariaDDD.Domain >= 1.0.0",
-      "LivrariaDDD.Service >= 1.0.0",
+      "LivrariaDDD.Services >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -6351,8 +6351,8 @@
             "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
               "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
             },
-            "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj": {
-              "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj"
+            "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj": {
+              "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj"
             }
           }
         }

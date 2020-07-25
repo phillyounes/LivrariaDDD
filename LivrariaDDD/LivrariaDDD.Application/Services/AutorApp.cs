@@ -2,7 +2,7 @@
 using LivrariaDDD.Application.Interfaces;
 using LivrariaDDD.Application.ViewModel;
 using LivrariaDDD.Domain;
-using LivrariaDDD.Service.Interfaces;
+using LivrariaDDD.Services.Interfaces;
 using System.Collections.Generic;
 
 namespace LivrariaDDD.Application.Services

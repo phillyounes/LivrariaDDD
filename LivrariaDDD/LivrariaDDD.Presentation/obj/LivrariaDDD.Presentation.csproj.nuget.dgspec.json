@@ -34,8 +34,8 @@
               "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
                 "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
               },
-              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj": {
-                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj"
+              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj": {
+                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj"
               }
             }
           }
@@ -238,9 +238,6 @@
               },
               "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {
                 "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj"
-              },
-              "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj": {
-                "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj"
               }
             }
           }
@@ -347,14 +344,14 @@
         }
       }
     },
-    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj": {
+    "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
-        "projectName": "LivrariaDDD.Service",
-        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
+        "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj",
+        "projectName": "LivrariaDDD.Services",
+        "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\LivrariaDDD.Services.csproj",
         "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\obj\\",
+        "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -11,7 +11,7 @@
         "dependencies": {
           "AutoMapper": "10.0.0",
           "LivrariaDDD.Domain": "1.0.0",
-          "LivrariaDDD.Service": "1.0.0",
+          "LivrariaDDD.Services": "1.0.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -1268,13 +1268,13 @@
           "LivrariaDDD.Repository.dll": {}
         }
       },
-      "LivrariaDDD.Service/1.0.0": {
+      "LivrariaDDD.Services/1.0.0": {
         "dependencies": {
           "LivrariaDDD.Domain": "1.0.0",
           "LivrariaDDD.Repository": "1.0.0"
         },
         "runtime": {
-          "LivrariaDDD.Service.dll": {}
+          "LivrariaDDD.Services.dll": {}
         }
       }
     }
@@ -2091,7 +2091,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "LivrariaDDD.Service/1.0.0": {
+    "LivrariaDDD.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
