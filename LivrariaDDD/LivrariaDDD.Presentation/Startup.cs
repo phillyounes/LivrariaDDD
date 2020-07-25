@@ -1,3 +1,5 @@
+using AutoMapper;
+using LivrariaDDD.Application.AutoMapper;
 using LivrariaDDD.Application.Interfaces;
 using LivrariaDDD.Application.Services;
 using LivrariaDDD.Repository;
@@ -24,6 +26,17 @@ namespace LivrariaDDD.Presentation
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            var mappingConfig = new MapperConfiguration(x =>
+            {
+                x.AddProfile(new DomainToViewModelMappingProfile());
+                x.AddProfile(new ViewModelToDomainMappingProfile());
+                x.AllowNullCollections = true;
+                x.AllowNullDestinationValues = true;
+            });
+
+            IMapper mapper = mappingConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
             services.AddTransient<IAutorApp, AutorApp>();
             services.AddTransient<ILivroApp, LivroApp>();
 

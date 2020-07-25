@@ -1,9 +1,6 @@
 ﻿using AutoMapper;
 using LivrariaDDD.Application.ViewModel;
 using LivrariaDDD.Domain;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace LivrariaDDD.Application.AutoMapper
 {
