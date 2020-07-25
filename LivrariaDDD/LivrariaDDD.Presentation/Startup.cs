@@ -24,16 +24,16 @@ namespace LivrariaDDD.Presentation
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IAutorApp, AutorApp>();
+            services.AddTransient<ILivroApp, LivroApp>();
+
+            services.AddTransient<IAutorService, AutorService>();
+            services.AddTransient<ILivroService, LivroService>();
+
+            services.AddTransient<IAutorRepository, AutorRepository>();
+            services.AddTransient<ILivroRepository, LivroRepository>();
+
             services.AddControllersWithViews();
-
-            services.AddScoped<IAutorApp, AutorApp>();
-            services.AddScoped<ILivroApp, LivroApp>();
-
-            services.AddScoped<IAutorService, AutorService>();
-            services.AddScoped<ILivroService, LivroService>();
-
-            services.AddScoped<IAutorRepository, AutorRepository>();
-            services.AddScoped<ILivroRepository, LivroRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

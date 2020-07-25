@@ -184,3 +184,17 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.csproj.CopyComplete
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.exe
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.deps.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.runtimeconfig.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.runtimeconfig.dev.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.Views.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.Views.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\LivrariaDDD.Presentation.StaticWebAssets.Manifest.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\staticwebassets\LivrariaDDD.Presentation.StaticWebAssets.xml
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.genruntimeconfig.cache
