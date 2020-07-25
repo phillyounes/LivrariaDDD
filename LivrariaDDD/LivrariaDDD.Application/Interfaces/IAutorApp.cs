@@ -7,7 +7,7 @@ namespace LivrariaDDD.Application.Interfaces
     {   
         void Create(AutorViewModel autor);
         AutorViewModel Read(int id);
-        IEnumerable<LivroViewModel> ReadAll();
+        IEnumerable<AutorViewModel> ReadAll();
         void Update(AutorViewModel autor);
         void Delete(AutorViewModel autor);
     }

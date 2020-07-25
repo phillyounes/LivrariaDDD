@@ -32,10 +32,10 @@ namespace LivrariaDDD.Application.Services
             return _mapper.Map<AutorViewModel>(autor);
         }
 
-        public IEnumerable<LivroViewModel> ReadAll()
+        public IEnumerable<AutorViewModel> ReadAll()
         {
             var autores = _autorService.ReadAll();
-            return _mapper.Map<List<LivroViewModel>>(autores);
+            return _mapper.Map<List<AutorViewModel>>(autores);
         }
 
         public void Update(AutorViewModel autor)

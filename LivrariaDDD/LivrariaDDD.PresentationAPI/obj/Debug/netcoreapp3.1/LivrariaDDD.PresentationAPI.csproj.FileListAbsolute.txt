@@ -1,0 +1,10 @@
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\bin\Debug\netcoreapp3.1\LivrariaDDD.PresentationAPI.exe
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\LivrariaDDD.PresentationAPI.csprojAssemblyReference.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\LivrariaDDD.PresentationAPI.AssemblyInfoInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\LivrariaDDD.PresentationAPI.AssemblyInfo.cs
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\LivrariaDDD.PresentationAPI.RazorTargetAssemblyInfo.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\staticwebassets\LivrariaDDD.PresentationAPI.StaticWebAssets.Manifest.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.PresentationAPI\obj\Debug\netcoreapp3.1\staticwebassets\LivrariaDDD.PresentationAPI.StaticWebAssets.xml

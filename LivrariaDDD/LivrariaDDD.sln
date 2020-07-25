@@ -33,6 +33,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Crosscutting", "Crosscuttin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.CrossCutting.IoC", "LivrariaDDD.CrossCutting.IoC\LivrariaDDD.CrossCutting.IoC.csproj", "{BCEB714A-D728-476E-99BF-3A0587BD8004}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivrariaDDD.PresentationAPI", "LivrariaDDD.PresentationAPI\LivrariaDDD.PresentationAPI.csproj", "{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{BCEB714A-D728-476E-99BF-3A0587BD8004}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCEB714A-D728-476E-99BF-3A0587BD8004}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCEB714A-D728-476E-99BF-3A0587BD8004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{D0957B6A-AC1E-482D-91A3-C3DD6148EA50} = {5EA119E7-4137-4A5C-A0B4-76566A0E877D}
 		{A787DAAE-3C86-4BFE-9862-93A23D81C8C1} = {B0C2D29A-713B-4701-8C73-BF8FD59F39ED}
 		{BCEB714A-D728-476E-99BF-3A0587BD8004} = {A787DAAE-3C86-4BFE-9862-93A23D81C8C1}
+		{75DCF0A0-D0E1-47D2-BEFF-F3151B3F1E67} = {2C6E0FD4-0F52-4CD0-B760-489943A60DED}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {66A7FE70-9516-441F-8D26-AE67AB5D1BB0}
