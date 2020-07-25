@@ -3,9 +3,7 @@ using LivrariaDDD.Application.Interfaces;
 using LivrariaDDD.Application.ViewModel;
 using LivrariaDDD.Domain;
 using LivrariaDDD.Service.Interfaces;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace LivrariaDDD.Application.Services
 {

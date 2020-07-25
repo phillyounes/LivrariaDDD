@@ -218,3 +218,18 @@ C:\source\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcore
 C:\source\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.pdb
 C:\source\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.genruntimeconfig.cache
 >>>>>>> Application
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.RazorAssemblyInfo.cache
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.RazorAssemblyInfo.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.TagHelpers.input.cache
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.TagHelpers.output.cache
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.RazorCoreGenerate.cache
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Create.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Delete.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Details.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Edit.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Index.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.RazorTargetAssemblyInfo.cs
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.Views.pdb
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.Views.dll
+C:\Users\phill\Source\Repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation.API\bin\Debug\netcoreapp3.1\LivrariaDDD.Presentation.API.Views.pdb

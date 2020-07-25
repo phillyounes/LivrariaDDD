@@ -6246,25 +6246,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\phill\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
+      "projectUniqueName": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
       "projectName": "LivrariaDDD.Service",
-      "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
-      "packagesPath": "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\obj\\",
+      "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\LivrariaDDD.Service.csproj",
+      "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Alexandre Gaspar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6278,11 +6276,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
-              "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
+            "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj": {
+              "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj"
             },
-            "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {
-              "projectPath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj"
+            "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj": {
+              "projectPath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Repository\\LivrariaDDD.Repository.csproj"
             }
           }
         }
@@ -6313,7 +6311,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

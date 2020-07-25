@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "TwTrcNzNm91xlMhEP7YiCsNGBAYaA71h133HFd0RPxYH5JEfYZs6jG52h+bSq2gxgV2zpX0Nnz5O1TcKttq7+A==",
+  "dgSpecHash": "wfkpsyfLT/nhcTq6O7eieNOE3mkGX4IQjdDMhOeH47xxyoRdWqgB/OTOpLy1nTWOznXVodfoMOPuPGExR5sYhA==",
   "success": true,
-  "projectFilePath": "C:\\source\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
+  "projectFilePath": "C:\\Users\\phill\\source\\repos\\LivrariaDDD\\LivrariaDDD\\LivrariaDDD.Domain\\LivrariaDDD.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Alexandre Gaspar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\phill\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phill\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

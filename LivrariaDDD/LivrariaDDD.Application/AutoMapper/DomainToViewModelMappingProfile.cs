@@ -14,15 +14,8 @@ namespace LivrariaDDD.Application.AutoMapper
             CreateMap<Autor, AutorViewModel>()
                 .ForMember(dest => dest.Livros, opt => opt.MapFrom(src => src.Livros))
                 .ReverseMap();
-            CreateMap<ItemPedido, ItemPedidoViewModel>()
-                .ForMember(dest => dest.Pedido, opt => opt.MapFrom(src => src.Pedido))
-                .ForMember(dest => dest.Livro, opt => opt.MapFrom(src => src.Livro))
-                .ReverseMap();
             CreateMap<Livro, LivroViewModel>()
                 .ForMember(dest => dest.Autor, opt => opt.MapFrom(src => src.Autor))
-                .ReverseMap();
-            CreateMap<Pedido, PedidoViewModel>()
-                .ForMember(dest => dest.ItensDoPedido, opt => opt.MapFrom(src => src.ItensDoPedido))
                 .ReverseMap();
         }
     }

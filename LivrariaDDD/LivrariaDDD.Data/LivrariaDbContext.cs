@@ -21,7 +21,5 @@ namespace LivrariaDDD.Infra.Data
         }
         public DbSet<Autor> Autores { get; set; }
         public DbSet<Livro> Livros { get; set; }
-        public DbSet<Pedido> Pedidos { get; set; }
-        public DbSet<ItemPedido> ItensPedido { get; set; }
     }
 }

@@ -1,3 +1,5 @@
+using LivrariaDDD.Application.Interfaces;
+using LivrariaDDD.Application.Services;
 using LivrariaDDD.Repository;
 using LivrariaDDD.Repository.Interfaces;
 using LivrariaDDD.Service;
@@ -23,6 +25,10 @@ namespace LivrariaDDD.Presentation
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            services.AddScoped<IAutorApp, AutorApp>();
+            services.AddScoped<ILivroApp, LivroApp>();
+
             services.AddScoped<IAutorService, AutorService>();
             services.AddScoped<ILivroService, LivroService>();
 
