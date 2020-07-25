@@ -203,3 +203,8 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.csproj.CoreCompileInputs.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.MvcApplicationPartsAssemblyInfo.cs
