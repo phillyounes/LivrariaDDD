@@ -10,6 +10,7 @@
       "LivrariaDDD.Infra.Data/1.0.0": {
         "dependencies": {
           "LivrariaDDD.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "3.1.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.6",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.6",
           "NETStandard.Library": "2.0.3"

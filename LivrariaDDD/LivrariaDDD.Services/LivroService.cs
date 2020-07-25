@@ -1,5 +1,5 @@
 ﻿using LivrariaDDD.Domain;
-using LivrariaDDD.Repository;
+using LivrariaDDD.Repository.Interfaces;
 using LivrariaDDD.Services.Interfaces;
 using System.Collections.Generic;
 
@@ -7,8 +7,8 @@ namespace LivrariaDDD.Services
 {
     public class LivroService : ILivroService
     {
-        private readonly LivroRepository _livroRepository;
-        public LivroService(LivroRepository livroRepository)
+        private readonly ILivroRepository _livroRepository;
+        public LivroService(ILivroRepository livroRepository)
         {
             _livroRepository = livroRepository;
         }

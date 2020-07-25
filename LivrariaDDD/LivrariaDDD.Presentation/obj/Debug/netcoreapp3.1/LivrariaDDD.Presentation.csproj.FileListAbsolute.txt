@@ -165,8 +165,6 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.csprojAssemblyReference.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.AssemblyInfoInputs.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.AssemblyInfo.cs
-C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.csproj.CoreCompileInputs.cache
-C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.RazorAssemblyInfo.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.RazorAssemblyInfo.cs
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.TagHelpers.input.cache
@@ -198,3 +196,10 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.pdb
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.genruntimeconfig.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.CrossCutting.IoC.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\LivrariaDDD.CrossCutting.IoC.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Presentation\obj\Debug\netcoreapp3.1\LivrariaDDD.Presentation.MvcApplicationPartsAssemblyInfo.cache

@@ -1,7 +1,5 @@
 ﻿using LivrariaDDD.Application.ViewModel;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace LivrariaDDD.Application.Interfaces
 {

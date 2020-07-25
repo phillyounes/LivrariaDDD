@@ -1,7 +1,9 @@
+using Autofac;
 using AutoMapper;
 using LivrariaDDD.Application.AutoMapper;
 using LivrariaDDD.Application.Interfaces;
 using LivrariaDDD.Application.Services;
+using LivrariaDDD.CrossCutting.IoC;
 using LivrariaDDD.Repository;
 using LivrariaDDD.Repository.Interfaces;
 using LivrariaDDD.Services;
@@ -48,6 +50,13 @@ namespace LivrariaDDD.Presentation
 
             services.AddControllersWithViews();
         }
+
+        //public void ConfigureContainer(ContainerBuilder Builder)
+        //{
+        //    #region Modulo IOC
+        //    Builder.RegisterModule(new ModuleIOC());
+        //    #endregion
+        //}
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

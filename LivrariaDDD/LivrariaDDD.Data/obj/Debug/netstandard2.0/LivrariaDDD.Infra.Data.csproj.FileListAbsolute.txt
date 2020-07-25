@@ -18,7 +18,7 @@ C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\bin\Debug\n
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.csprojAssemblyReference.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.AssemblyInfoInputs.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.AssemblyInfo.cs
-C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.csproj.CoreCompileInputs.cache
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.csproj.CopyComplete
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.dll
 C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.pdb
+C:\Users\phill\source\repos\LivrariaDDD\LivrariaDDD\LivrariaDDD.Data\obj\Debug\netstandard2.0\LivrariaDDD.Infra.Data.csproj.CoreCompileInputs.cache
